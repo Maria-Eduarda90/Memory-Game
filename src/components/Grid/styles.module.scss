@@ -1,0 +1,21 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.2rem;
+    margin-top: 4rem;
+}
+
+.text {
+    text-align: center;
+    h1 {
+        color: var(--color-pupler-violet);
+    }
+
+    button {
+        padding: 0.8rem;
+        border: 0;
+        cursor: pointer;
+        border-radius: 0.6rem;
+        background: #e1cf02;
+    }
+}

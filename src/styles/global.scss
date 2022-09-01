@@ -1,0 +1,21 @@
+:root {
+    --color-pupler-violet: #500034;
+    --color-text-dark: #000000;
+    --color-text-light: #ffffff;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background: #f3f2f2;
+    font-size: 1.6rem;
+    font-family: 'Poppins', sans-serif;
+}
