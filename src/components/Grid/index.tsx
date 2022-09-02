@@ -69,7 +69,7 @@ export function Grid({ cards }: GridProps){
             <div className={styles.text}>
                 <h1>MemoryGame-Dragon-ball</h1>
                 <p>
-                    Moves: {moves} | Matches: {matches} | <button onClick={handleReset}>Reset</button>
+                    Moves: {moves} | Matches: {matches} | <button onClick={handleReset}>Reset Game</button>
                 </p>
             </div>
             <div className={styles.grid}>
