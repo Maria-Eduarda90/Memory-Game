@@ -27,7 +27,7 @@ Recriar um game como forma de aprendizagem e praticar novas habilidades com Type
 $ git clone <https://github.com/Maria-Eduarda90/MemoryGame-dragon-ball>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd MemoryGame-dragon-ball
+$ cd MemoryGame
 
 # Instale as dependências
 $ yarn || npm i
